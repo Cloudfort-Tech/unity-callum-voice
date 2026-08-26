@@ -1,0 +1,11 @@
+{
+    "name": "MiladxandiUnity.Callum.Tests",
+    "references": [
+        "MiladxandiUnity.Callum"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

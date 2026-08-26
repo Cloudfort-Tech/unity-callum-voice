@@ -1,0 +1,14 @@
+{
+    "name": "MiladxandiUnity.Callum.Editor.Tests",
+    "references": [
+        "MiladxandiUnity.Callum.Editor",
+        "MiladxandiUnity.Callum"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ir.cloudfort",
+  "displayName": "Callum",
+  "version": "0.0.1",
+  "unity": "6000.5",
+  "unityRelease": "8f1",
+  "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
+  "dependencies": {
+    "com.unity.test-framework": "1.6.0"
+  },
+  "author": {
+    "name": "Milad Xandi",
+    "url": "http://miladzandi.ir",
+    "email": "miladxandi@protonmail.com"
+  },
+  "changelogUrl": "https://cloudfort.ir/changelog",
+  "documentationUrl": "https://cloudfort.ir/",
+  "licensesUrl": "https://cloudfort.ir/licensing"
+}

@@ -1,0 +1,10 @@
+{
+    "name": "MiladxandiUnity.Callum.Editor",
+    "references": [
+      "MiladxandiUnity.Callum"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
